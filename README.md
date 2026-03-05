@@ -1,4 +1,4 @@
-![img](img/Gemini_Generated_Image_s009es009es009es.png)
+![img](img/Gemini_Generated_Image_gcajnigcajnigcaj.png)
 # ¡Hola! Soy Pablo Daniel Coila 👋
 
 Estudiante de primer año de **Sistemas Informáticos** en el **Instituto TECBA**. Me apasiona la programación y estoy en constante aprendizaje para convertirme en un desarrollador profesional y aprender mas de ciberseguridad.
