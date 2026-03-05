@@ -12,3 +12,7 @@ Estudiante de primer año de **Sistemas Informáticos** en el **Instituto TECBA*
 - 🌱 **Aprendiendo actualmente:** Lógica de programación, algoritmos y mucho más.
 
 > "El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House
+
+###  Contáctame
+
+- **@Correo personal** pablodelotrouniverso@gmail.com
